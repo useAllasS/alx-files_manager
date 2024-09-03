@@ -45,8 +45,7 @@ npm run start-server
 [Click here](./routes/README.md) to view the complete list of the API
 
 ## Authors
-- Onu Onyedikachi (Team Lead)
-- Nwachukwu MaryBaptista
+- Nita Youssef 
 
 [click](./AUTHORS) to view details
 
